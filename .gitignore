@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# Source asli tidak diupload — yang diupload hanya versi terenkripsi (index_obf.html)
+index.html
