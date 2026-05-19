@@ -2,6 +2,9 @@ node_modules/
 dist/
 .env
 .env.local
-
-# Source asli tidak diupload — yang diupload hanya versi terenkripsi (index_obf.html)
-index.html
+*.apk
+build.js
+package.json
+package-lock.json
+README.md
+index_src.html
